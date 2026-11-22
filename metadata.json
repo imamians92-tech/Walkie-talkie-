@@ -1,0 +1,6 @@
+{
+  "name": "Walkie Talkie Pro",
+  "description": "Tactical Walkie Talkie Pro console with a real-time Bluetooth LE mesh radar dashboard monitoring up to 20 group devices, relay routes, signal quality, and heartbeat connectivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

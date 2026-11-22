@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Walkie Talkie Pro</string>
+    <string name="dashboard_title">WALKIE TALKIE PRO</string>
+    <string name="radar_button_label">RADAR</string>
+    <string name="radar_screen_title">LIVE MESH RADAR</string>
+    <string name="status_in_range">IN RANGE</string>
+    <string name="status_weak_unstable">WEAK / UNSTABLE</string>
+    <string name="status_out_of_range">OUT OF RANGE</string>
+    <string name="cd_back_button">Navigate back to Walkie Talkie dashboard</string>
+    <string name="cd_radar_button">Open live Bluetooth mesh radar dashboard</string>
+    <string name="cd_enroll_device">Scan and enroll nearby Bluetooth devices</string>
+    <string name="cd_toggle_scan">Toggle Bluetooth mesh scanning</string>
+    <string name="cd_ptt_button">Push to talk on current radio channel</string>
+</resources>
